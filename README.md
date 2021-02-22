@@ -5,3 +5,6 @@ This is one of the first android app that i have created. This was a follow alon
 
 Functions:
 This app contains the translation and the pronunciation for some words in Miwok language(a really old language).
+
+Creator:
+Mystic Slice
