@@ -1,6 +1,6 @@
 # Miwok-Language-Trainer(Android/Java)
 
-**App:** This app is built along the tutorial in Udacity.
+**App:** This app was built along the tutorial in Udacity.
 
 **New Concept:** MultiScreen Apps
 
